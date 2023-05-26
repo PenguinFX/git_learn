@@ -6,8 +6,5 @@ ajsdhakdskbhdhfka
 ahdjhaghzvvvvvvvvv
 wwwwwwwwwwwwwwwwwww
 It is difficult! But I will make it!
-<<<<<<< HEAD
 Create a new Branch dev!
-=======
-Create a new Branch dev!
->>>>>>> branch1
+add merge!
